@@ -9,9 +9,7 @@ Code:
 This repository contains the scripts used to generate figures for the article.
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="media">
-
 Media:
-
 </h2>
 
 Miscellaneous information, including publicly-available presentations about the [article](https://www.biorxiv.org/) are available through: [parallelsq.org/tagdesign](https://www.parallelsq.org/tagdesign).
